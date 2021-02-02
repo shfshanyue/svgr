@@ -345,9 +345,6 @@ export function Playground() {
             </PlaygroundEditors>
           </React.Suspense>
           <CopyFeedback {...dialog} />
-          <FloatingAd>
-            <CarbonAd />
-          </FloatingAd>
         </PlaygroundContainer>
       </ClientOnly>
     </>
